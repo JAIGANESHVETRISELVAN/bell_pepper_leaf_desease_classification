@@ -1,13 +1,17 @@
-# image-recognition-resnet50-flask
+# Sistem Informasi Deteksi Daun Paprika (SIDEPRIKA)
 
-## Demo Video
+Sideprika singkatan dari Sistem Informasi Deteksi Penyakit Daun Paprika yang merupakan hasil pengembangan aplikasi dari penelitian tesis tentang image processing. Dalam penelitian ini dibangun menggunakan Fine-Tuned Transfer Learning dengan arsitektur DenseNet121 yang dilatih ulang dengan parameter FC Layer yang baru. Hasil akhir pada penelitian ini didapatkan tingkat akurasi sebesar **99.30%** dan nilai cohen's cappa sebesar **0.9865** dengan kata lain penelitian ini dikatakan penelitian yang **Sangat Kuat (Very Good)**.
 
-[![Watch the video](https://i.ytimg.com/vi/Raiy4SVW_YY/0.jpg)](https://www.youtube.com/embed/Raiy4SVW_YY)
+## Halaman Beranda
+<img src="static/img/Halaman Beranda Aplikasi2.png"/>
+
+## Halaman Prediksi
+<img src="static/img/Halaman Prediksi Aplikasi2.png"/>
 
 ## BackEnd
 
 ```
-Python 3.6.8
+Python 3.8.5
 ```
 ## Install
 
@@ -23,7 +27,7 @@ pip install -r requirements.txt
 
 ```
 
-It will take time to install all dependencies and ResNet50 model
+It will take time to install all dependencies and DenseNet121 model
 
 ```
 
