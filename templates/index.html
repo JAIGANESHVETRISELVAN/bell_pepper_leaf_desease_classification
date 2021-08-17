@@ -1,0 +1,39 @@
+{% extends "import.html" %}
+{% block content %}
+
+<center>
+    <div class="row" style="margin-top: 60px;">
+        <div class="col-6 col-lg-6 col-md-6 col-xs-12">
+            <img src="{{ url_for('static', filename='img/logo sideprika square.png') }}" alt="" width="500"
+                height="500">
+        </div>
+        <div class="col-6 col-lg-6 col-md-6 col-xs-12">
+            <form id="upload-file" method="post" enctype="multipart/form-data">
+                <h2 style="margin-top: 20px;">Selamat Datang</h2>
+                <p>Silahkan upload citra daun paprika yang akan dilakukan prediksi oleh sistem</p>
+                <label for="imageUpload" class="btn btn-success">
+                    <i class="fas fa-images"></i> Upload Citra
+                </label>
+                <input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg">
+            </form>
+
+            <div class="image-section" style="display:none;">
+                <div class="img-preview">
+                    <div id="imagePreview">
+                    </div>
+                </div>
+                <div>
+                    <button type="button" class="btn btn-dark btn-lg " id="btn-predict"><i class="fas fa-code"></i>
+                        Prediksi!</button>
+                </div>
+            </div>
+
+            <div class="loader" style="display:none;"></div>
+
+            <h3 id="result">
+                <span> </span>
+            </h3>
+        </div>
+    </div>
+</center>
+{% endblock %}
