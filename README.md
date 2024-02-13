@@ -58,7 +58,7 @@ This repository contains web-based applications built using python, flask and so
 
 ### Install App
 
-Choose your local folder destination and do this steps :
+Choose your local folder destination, open terminal and do this steps :
 ```
 git clone https://github.com/yuris60/bell_pepper_leaf_desease_classification.git
 
