@@ -84,3 +84,5 @@ Y. Akhalifi,  and A. Subekti, "Bell Pepper Leaf Disease Classification Using Fin
 
 ### Thanks To
 Thank you very much to `Dr. Agus Subekti, M.Kom` for his guidance to me during the preparation and development of the project and publication papers. Without him, this project couldn't be completed as it should be.
+
+
