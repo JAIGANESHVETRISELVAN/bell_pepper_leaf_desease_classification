@@ -2,7 +2,7 @@
 
 <img src="static/img/logo sideprika square2.png" height="300px">
 
-This project is the result of my Thesis on a Computer Science Master's Degree at Nusa Mandiri University. The aim is to develop a CNN model with Transfer Learning to predict bell pepper leaf disease by images using image processing.
+This project is the result of my Thesis on a Computer Science Master's Degree at Nusa Mandiri University in 2021. The aim is to develop a CNN model with Transfer Learning to predict bell pepper leaf disease by images using image processing.
 
 ## Notebook
 The code for this project is contained in the <a href="ipynb/bell_pepper_leaf_desease_classification.ipynb">bell_pepper_leaf_desease_classification.ipynb</a> Jupyter notebook file, which can be viewed and interactively run on platforms like Google Colab.
