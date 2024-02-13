@@ -13,15 +13,15 @@ The project has been write into paper and has been published in the Journal of E
 ### Abstract
 Leaf diseases of plants are common worldwide. Using image processing, farmers could spot diseases in pepper plants more rapidly and get advice from plant disease experts. In this paper, researchers developed a Transfer Learning classification model for bell pepper leaf disease, with the Transfer Learning model trained on images of healthy and diseased bell pepper leaves. Classification of healthy and diseased bell pepper leaves has been carried out, and fine-tuned Transfer Learning has been applied using several pre-trained CNN models. To achieve the best outcome, four pre-trained models, including MobileNet, VGG16, ResNetV250, and DenseNet121, and three Fully Connected (FC) layer architectures were tested. The Fully Connected (FC) layer with four Transfer Learning architectures achieved the best accuracy value of 99.33% on DenseNet121 architecture with one layer and Cohen’s Kappa value of 0.9865.
 
-DOI : http://dx.doi.org/10.55981/jet.546
+DOI : <a href="http://dx.doi.org/10.55981/jet.546" target="_blank">http://dx.doi.org/10.55981/jet.546</a>
 
 ### Dataset
-This research uses images on a public dataset obtained from Tairu Oluwafemi Emmanuel published in Kaggle entitled <a href="https://www.kaggle.com/datasets/emmarex/plantdisease">PlantVillage Dataset</a>. 
+This research uses images on a public dataset obtained from Tairu Oluwafemi Emmanuel published in Kaggle entitled <a href="https://www.kaggle.com/datasets/emmarex/plantdisease" target="_blank">PlantVillage Dataset</a>. 
 
 The images available on the dataset are tomato leaf, potato leaf and paprika leaf. However, we're only focused on using the datasets, i.e. just bell pepper leaf images.
 
 ### Cited By IEEE Paper :
-1. <a href="https://ieeexplore.ieee.org/abstract/document/10415016">GSAtt-CMNetV3: Pepper Leaf Disease Classification using Osprey Optimization</a>
+1. <a href="https://ieeexplore.ieee.org/abstract/document/10415016" target="_blank">GSAtt-CMNetV3: Pepper Leaf Disease Classification using Osprey Optimization</a>
 
 ## Implementation App
 This repository contains web-based applications built using python, flask and some additional libraries listed in the requirements.
@@ -83,7 +83,7 @@ Open Browser and type http://localhost:5000
 ## Citation
 We would be very grateful if you were will to cite our paper in your research.
 
-### IEEE
+### IEEE Format
 ```
 Y. Akhalifi,  and A. Subekti, "Bell Pepper Leaf Disease Classification Using Fine-Tuned Transfer Learning," Jurnal Elektronika dan Telekomunikasi, vol. 23, no. 1, pp. 55-61, Aug. 2023. doi: 10.55981/jet.546
 ```
