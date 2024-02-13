@@ -18,7 +18,11 @@ DOI : <a href="http://dx.doi.org/10.55981/jet.546" target="_blank">http://dx.doi
 ### Dataset
 This research uses images on a public dataset obtained from Tairu Oluwafemi Emmanuel published in Kaggle entitled <a href="https://www.kaggle.com/datasets/emmarex/plantdisease" target="_blank">PlantVillage Dataset</a>. 
 
-The images available on the dataset are tomato leaf, potato leaf and paprika leaf. However, we're only focused on using the datasets, i.e. just bell pepper leaf images.
+The images available on the dataset are tomato leaf, potato leaf and paprika leaf. However, we're only focused on using the datasets, i.e. just bell pepper leaf images. The dataset used have 2 classes, `Bacterial` (a) and `Healthy` (b).
+
+<img src="static/img/sample_dataset.jpg" width="70%">
+
+Image: Sample Dataset
 
 ### Cited By IEEE Paper :
 1. <a href="https://ieeexplore.ieee.org/abstract/document/10415016" target="_blank">GSAtt-CMNetV3: Pepper Leaf Disease Classification using Osprey Optimization</a>
@@ -45,13 +49,13 @@ This repository contains web-based applications built using python, flask and so
   <tr>
     <td>
       <h4 align="center">Home Page</h4>
-      <img src="static/img/Halaman Beranda Aplikasi2.png"/  width="100%">
+      <img src="static/img/Halaman Beranda Aplikasi2.png"/ width="100%">
     <td>
   </tr>
   <tr>
     <td>
       <h4 align="center">Prediction Page</h4>
-      <img src="static/img/Halaman Prediksi Aplikasi2.png"/  width="100%">
+      <img src="static/img/Halaman Prediksi Aplikasi2.png"/ width="100%">
     <td>
   </tr>
 </table>
