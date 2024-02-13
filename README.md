@@ -41,22 +41,28 @@ This repository contains web-based applications built using python, flask and so
 - [x] Gunicorn <code>20.1.0</code>
 
 ### Screenshot
-<table>
+<table width="100%">
   <tr>
     <td>
       <h4 align="center">Home Page</h4>
-      <img src="static/img/Halaman Beranda Aplikasi2.png"/>
+      <img src="static/img/Halaman Beranda Aplikasi2.png"/  width="100%">
     <td>
   </tr>
   <tr>
     <td>
       <h4 align="center">Prediction Page</h4>
-      <img src="static/img/Halaman Prediksi Aplikasi2.png"/>
+      <img src="static/img/Halaman Prediksi Aplikasi2.png"/  width="100%">
     <td>
   </tr>
 </table>
 
 ### Install App
+
+Choose your local folder destination and do this steps :
+```
+git clone https://github.com/yuris60/bell_pepper_leaf_desease_classification.git
+
+```
 
 ```
 pip install -r requirements.txt
