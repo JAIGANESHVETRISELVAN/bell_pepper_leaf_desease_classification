@@ -62,7 +62,7 @@ This repository contains web-based applications built using python, flask and so
 
 ### Install App
 
-Choose your local folder destination, open terminal and do this steps :
+Choose your local folder destination, open the terminal, and do these steps :
 ```
 git clone https://github.com/yuris60/bell_pepper_leaf_desease_classification.git
 
@@ -84,8 +84,8 @@ Open Browser and type http://localhost:5000
 
 ```
 
-## Citation
-We would be very grateful if you were will to cite our paper in your research.
+## Cite our paper
+We would be very grateful if you could cite our work in your research.
 
 ### IEEE Format
 ```
@@ -93,6 +93,6 @@ Y. Akhalifi,  and A. Subekti, "Bell Pepper Leaf Disease Classification Using Fin
 ```
 
 ### Thanks To
-Thank you very much to `Dr. Agus Subekti, M.Kom` for his guidance to me during the preparation and development of the project and publication papers. Without him, this project couldn't be completed as it should be.
+Thank you very much to `Dr. Agus Subekti, M.Kom` for his guidance to me during the preparation and development of the project and publication papers. Without him, this project couldn't have been completed as it should be.
 
 
