@@ -1,6 +1,8 @@
 # Bell Pepper Leaf Disease Classification Using Fine-Tuned Transfer Learning
 
-<img src="static/img/logo sideprika square2.png" height="300px">
+<div align="center">
+  <img src="static/img/logo sideprika square2.png" height="300px">
+</div>
 
 This project is the result of my Thesis on a Computer Science Master's Degree at Nusa Mandiri University in 2021. The aim is to develop a CNN model with Transfer Learning to predict bell pepper leaf disease by images using image processing.
 
