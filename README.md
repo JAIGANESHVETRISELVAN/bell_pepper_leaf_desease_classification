@@ -94,8 +94,7 @@ We would be very grateful if you could cite our work in your research.
 ### BibteX Format
 ```
 @ARTICLE{Akhalifi2023-ym,
-  title     = "Bell pepper leaf disease classification using fine-tuned
-               Transfer Learning",
+  title     = "Bell pepper leaf disease classification using fine-tuned Transfer Learning",
   author    = "Akhalifi, Yuris and Subekti, Agus",
   journal   = "J. Elektron. Dan Telekomun.",
   publisher = "National Research and Innovation Agency",
