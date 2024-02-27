@@ -91,6 +91,23 @@ Open Browser and type http://localhost:5000
 ## Cite our paper
 We would be very grateful if you could cite our work in your research.
 
+### BibteX Format
+```
+@ARTICLE{Akhalifi2023-ym,
+  title     = "Bell pepper leaf disease classification using fine-tuned
+               Transfer Learning",
+  author    = "Akhalifi, Yuris and Subekti, Agus",
+  journal   = "J. Elektron. Dan Telekomun.",
+  publisher = "National Research and Innovation Agency",
+  volume    =  23,
+  number    =  1,
+  pages     = "55",
+  month     =  aug,
+  year      =  2023
+}
+
+```
+
 ### IEEE Format
 ```
 Y. Akhalifi,  and A. Subekti, "Bell Pepper Leaf Disease Classification Using Fine-Tuned Transfer Learning," Jurnal Elektronika dan Telekomunikasi, vol. 23, no. 1, pp. 55-61, Aug. 2023. doi: 10.55981/jet.546
