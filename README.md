@@ -24,9 +24,10 @@ This research uses images on a public dataset obtained from Tairu Oluwafemi Emma
 
 The images available on the dataset are tomato leaf, potato leaf and paprika leaf. However, we're only focused on using the datasets, i.e. just bell pepper leaf images. The dataset used have 2 classes, `Bacterial` (a) and `Healthy` (b).
 
-<img src="static/img/sample_dataset.jpg" width="70%">
-
-Image: Sample Dataset
+<div align="center">
+  <img src="static/img/sample_dataset.jpg" width="70%"><br>
+  Image: Sample Dataset
+</div>
 
 ### Cited By IEEE Paper :
 1. <a href="https://ieeexplore.ieee.org/abstract/document/10415016" target="_blank">GSAtt-CMNetV3: Pepper Leaf Disease Classification using Osprey Optimization</a>
