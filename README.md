@@ -3,7 +3,7 @@
 <div align="center">
   <img src="static/img/logo sideprika square2.png" height="300px">
 
-  <!-- [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.55981/jet.546)](http://dx.doi.org/10.55981/jet.546) -->
+  [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.55981/jet.546)](http://dx.doi.org/10.55981/jet.546)
 </div>
 
 This project is the result of my Thesis on a Computer Science Master's Degree at Nusa Mandiri University in 2021. The aim is to develop a CNN model with Transfer Learning to predict bell pepper leaf disease by images using image processing.
