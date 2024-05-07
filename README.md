@@ -31,6 +31,7 @@ The images available on the dataset are tomato leaf, potato leaf and paprika lea
 
 ### Cited By IEEE Paper :
 1. <a href="https://ieeexplore.ieee.org/abstract/document/10415016" target="_blank">GSAtt-CMNetV3: Pepper Leaf Disease Classification using Osprey Optimization</a>
+1. <a href="https://ieeexplore.ieee.org/abstract/document/10497250/" target="_blank">Analysis of Pre-Trained CNN Models for Pepper and Potato Leaf Disease Prediction</a>
 
 ## Implementation App
 This repository contains web-based applications built using python, flask and some additional libraries listed in the requirements.
