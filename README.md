@@ -1,7 +1,7 @@
-# Bell Pepper Leaf Disease Classification Using Fine-Tuned Transfer Learning
+# Bell Pepper Leaf Disease Classification Using Hypertuned parameter
 
 <div align="center">
-  <img src="static/img/logo sideprika square2.png" height="300px">
+ 
 
   [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.55981/jet.546)](http://dx.doi.org/10.55981/jet.546)
 </div>
